@@ -1,1 +1,1 @@
-Open minded people wrtie with a-branched
+A great mind has written on b-branch
