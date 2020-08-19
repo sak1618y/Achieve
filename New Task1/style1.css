@@ -1,0 +1,94 @@
+html {
+  font-size: 62.5%;
+}
+body {
+  width: 980px;
+  margin: 20 auto;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+.header {
+  background-color: #F5B4B3;
+  height: 50px;
+  font-size: 1.5rem;
+}
+.top_menu li {
+  float: right;
+  width: auto;
+}
+.top_menu li a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+}
+.top_menu li a:hover {
+  text-decoration: underline;
+}
+.logo_image {
+  width: 110px;
+  float: left;
+  margin: 0;
+}
+.clearfix:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.image_area{
+  width: 100%;
+  height: 200px;
+}
+.side_menu li{
+  background-color: #F5B4B3;
+  height: 6rem;
+  margin-bottom: 10px;
+}
+.side_menu li a{
+  font-size:2rem;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+  padding: 2rem
+}
+.side_menu{
+  width: 300px;
+  float: left;
+}
+.side_menu li :hover {
+  opacity : 0.6;
+}
+.content{
+  float: right;
+  width: 680px
+  font-size: 1.5rem;
+}
+article {
+  align-content: right;
+}.content th {
+  height:
+  text-align: center;
+}
+content td{
+  height: 5rem;
+}
+.content li:hover {
+  opacity: 0.5;
+}
+.footer {
+  background-color: #4D4D4D;
+  height: 80px;
+  width: 980px;
+  position: absolute;
+  bottom: 20px;
+}
+  .footer p {
+    font-size: 2rem;
+    color: #fff;
+    text-align: center;
+  }
